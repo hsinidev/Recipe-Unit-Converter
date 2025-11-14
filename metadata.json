@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Unit Converter",
+  "description": "A modern, responsive tool to instantly convert between common cooking and fluid units like grams, ounces, liters, and cups. Features a clean, kitchen-focused interface with an animated galaxy background.",
+  "requestFramePermissions": []
+}
